@@ -1,0 +1,9 @@
+Introduction:
+
+Wine is an alcoholic drink, typically made from fermented grapes. The wine industry has begun to invest in new technologies for increasing the supply and aiding the selling process of wine (Cortez et al., 2009). Quality, as it relates to wine, can often be viewed as intrinsic or extrinsic, meaning the physicochemical characteristics or characteristics such as price and prestige (Jackson, 2017). Our classification will focus on the physicochemical properties because as these components and sensory variables change, there is often also a difference in the quality of the raw materials and process. We aim to determine if based on physicochemical data, we can categorize if the quality of wine will be above or below average. The dataset we are using is extracted from a paper by Cortez et al. (2017), titled “Modeling wine preferences by data mining from physicochemical properties”. The purpose of the study was to utilize a data mining approach to assist in the quality evaluation of wine. The dataset consisted of red and white vinho verde wine from the north of Portugal. Each row indicates the test for one type of wine including physicochemical variables (e.g. fixed acidity, volatile acidity, residual sugar) and an index indicating the condition (quality). In order to assess and predict the quality of wine, it is essential to find the relationship between these physicochemical statistics and wine quality.
+
+ 
+References:
+P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. Modeling wine preferences by data mining from physicochemical properties. In Decision Support Systems, Elsevier, 47(4):547-553, 2009.
+
+S. Jackson. Nature and Origins of Wine Quality. Wine Tasting, Elsevier, 3(8):337-370, 2017. 
